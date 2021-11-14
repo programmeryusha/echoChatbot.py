@@ -1,0 +1,4 @@
+print ('Hello')
+print ('I will talk to you and repeat what you say')
+stuff_to_echo = input('Please say something to me')
+print (stuff_to_echo)
